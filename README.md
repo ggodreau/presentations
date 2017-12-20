@@ -1,7 +1,7 @@
 [the shuffle](https://rawgit.com/ggodreau/presentations/pattypants/order.html)
 
 |Presenter|Topic|
-|---|
+|---|---|
 |[Kelvin](https://docs.google.com/presentation/d/126Ubh9JRmqUmOgVzAhBNnw8HF9It9PcdklMyhKhAo5I/edit?usp=sharing)|Speech recognition|
 |[Andrew](https://docs.google.com/presentation/d/1Cm0NnRqgoZrta1xqlL1CVsLwl5ll2jqnISFCZmvLq-E/edit?usp=sharing)|Board game analysis|
 |[Vinay](https://drive.google.com/open?id=172F7vN3suPCcLUSVUSAmXeeLtOkdHvP_GIFNca8q0_g)|Student food preferences|
