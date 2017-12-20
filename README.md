@@ -4,11 +4,12 @@
 |---|
 |[Kelvin](https://docs.google.com/presentation/d/126Ubh9JRmqUmOgVzAhBNnw8HF9It9PcdklMyhKhAo5I/edit?usp=sharing)|
 |[Andrew](https://docs.google.com/presentation/d/1Cm0NnRqgoZrta1xqlL1CVsLwl5ll2jqnISFCZmvLq-E/edit?usp=sharing)|
-|[Vinay](https://drive.google.com/open?id=16TFimaBKUzabyZrnexHjeF4VP6ILmzm6)|
-|[Patrice](://docs.google.com/presentation/d/105g-6jJMsVd-m0UfXrC9fdTFWt_DSeM34w0Y3wRkOt4/edit?usp=sharing)|
+|[Vinay](https://drive.google.com/open?id=1Ih0Eo1oatY1LOdfBjCWvE-wv9rpKdGy51UKI2eBF4CI)|
+|[Patrice](https://docs.google.com/presentation/d/105g-6jJMsVd-m0UfXrC9fdTFWt_DSeM34w0Y3wRkOt4/edit?usp=sharing)|
 |[Ron](https://docs.google.com/presentation/d/1peS0irb9OOpdm4dMDWhn4rq9ax8EfOCGUpyYiaJvZn4/edit?usp=sharing)|
 |[Hallie](https://docs.google.com/presentation/d/1vYHLNGcYZYNvsJLZioeX1n3uofmzoRmsaUy5HvShDpw/edit?usp=sharing)|
 |[Anthony](https://docs.google.com/presentation/d/1FGJTPLlGs5YAVFKdEnbO5OSlDJrpVUQFSKwJSMPpbgA/edit#slide=id.p)|
 
 A data model ...for *ants!*
+
 ![alt text](https://media.giphy.com/media/i3RA5wLyWjCRa/giphy.gif "logo title text 1")
